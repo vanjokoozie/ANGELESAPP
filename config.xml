@@ -4,6 +4,6 @@
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
     <name>APP</name>
-    <description>APP DEMO2</description>
-    <icon src="logo" />
+    <description>Mobile Project</description>
+    <icon src="logo.jpg" />
 </widget>
